@@ -29,3 +29,7 @@
 - [ ] **Find an Open Source project I could see myself contribute to**
 
   [result goes here...]
+
+- [ ] **Make a pull request to the [issue](https://github.com/WICG/focus-ring/issues/28) I opened in [focus-ring](https://github.com/WICG/focus-ring)**
+
+  [result goes here...]
