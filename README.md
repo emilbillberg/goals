@@ -4,16 +4,16 @@
 
 - [x] **Create a repository called Goals**
 
-Yay! You are reading it!
+  Yay! You are reading it!
 
 - [ ] **Establish July's goals**
 
-Result...
+  [result goes here...]
 
 - [ ] **Complete four sessions in [Coding Interview University](https://github.com/jwasham/coding-interview-university)**
 
-Result...
+  [result goes here...]
 
 - [ ] **Find a course in [MongoDB University]( https://university.mongodb.com/) I would like to take**
 
-Result...
+  [result goes here...]
