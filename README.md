@@ -10,7 +10,7 @@
 
   [result goes here...]
 
-- [ ] **Complete four sessions in [Coding Interview University](https://github.com/jwasham/coding-interview-university)**
+- [ ] **Complete six sessions in [Coding Interview University](https://github.com/jwasham/coding-interview-university)**
 
   [result goes here...]
 
@@ -18,6 +18,14 @@
 
   [result goes here...]
 
-- [ ] **Add four rules to my personal [JavaScript Style Guide](https://github.com/emilbillberg/javascript-style-guide)**
+- [ ] **Add six rules to my personal [JavaScript Style Guide](https://github.com/emilbillberg/javascript-style-guide)**
+
+  [result goes here...]
+
+- [ ] **Write a Medium article about a topic inspired from [Coding Interview University](https://github.com/jwasham/coding-interview-university)**
+
+  [result goes here...]
+
+- [ ] **Find an Open Source project I could see myself contribute to**
 
   [result goes here...]
