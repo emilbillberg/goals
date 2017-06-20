@@ -1,14 +1,19 @@
-# GOALS
+# GOALS - 2017
 
-## July - 2017
-#### [x] Create a repository called Goals
-*Result*
+## July
 
-#### [ ] Establish July's goals
-*Result*
+- [x] **Create a repository called Goals**
 
-#### [ ] Complete four sessions in [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-*Result*
+Yay! You are reading it!
 
-#### [ ] Find ways of involving community to get some initial feedback on [Web Router](https://github.com/emilbillberg/web-router)
-*Result*
+- [ ] **Establish July's goals**
+
+Result...
+
+- [ ] **Complete four sessions in [Coding Interview University](https://github.com/jwasham/coding-interview-university)**
+
+Result...
+
+- [ ] **Find a course in [MongoDB University]( https://university.mongodb.com/) I would like to take**
+
+Result...
