@@ -6,9 +6,9 @@
 
   Yay! You are reading it!
 
-- [ ] **Establish goals for July**
+- [x] **Establish goals for July**
 
-  [result goes here...]
+  Eight goals were established for July! Well done!
 
 - [ ] **Complete six sessions in [Coding Interview University](https://github.com/jwasham/coding-interview-university)**
 
