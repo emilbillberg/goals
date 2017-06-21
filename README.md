@@ -6,7 +6,7 @@
 
   Yay! You are reading it!
 
-- [ ] **Establish July's goals**
+- [ ] **Establish goals for July**
 
   [result goes here...]
 
