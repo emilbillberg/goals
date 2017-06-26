@@ -16,7 +16,7 @@
 
 - [ ] **Find a course in [MongoDB University]( https://university.mongodb.com/) I would like to take**
 
-  [result goes here...]
+  Boom! Found a course and signed up for a course! I signed up for the course [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) and it is three weeks long between 27th of June, 2017 to 18th of July, 2017.
 
 - [ ] **Add six rules to my personal [JavaScript Style Guide](https://github.com/emilbillberg/javascript-style-guide)**
 
