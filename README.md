@@ -16,11 +16,11 @@
 
 - [x] **Find a course in [MongoDB University]( https://university.mongodb.com/) I would like to take**
 
-  Boom! Found a course and signed up for a course! I signed up for the course [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) and it is three weeks long between 27th of June, 2017 to 18th of July, 2017.
+  Boom! Found a course and signed up for a course! I signed up for the course [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about) and it is three weeks long between 27th of June to the 18th of July, 2017.
 
-- [ ] **Add six rules to my personal [JavaScript Style Guide](https://github.com/emilbillberg/javascript-style-guide)**
+- [x] **Add six rules to my personal [JavaScript Style Guide](https://github.com/emilbillberg/javascript-style-guide)**
 
-  [result goes here...]
+  Added eight rules to my style guide. I added some rules to Object, Arrays, & Strings. Many more rules needs to be added. The style guide is heavily inspired by [Airbnb's styleguide](https://github.com/airbnb/javascript/blob/master/README.md)
 
 - [ ] **Write a Medium article about a topic inspired from [Coding Interview University](https://github.com/jwasham/coding-interview-university)**
 
